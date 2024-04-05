@@ -8,7 +8,7 @@ Carmi, a devoted fan of Taylor Swift, embarked on a data analysis project to inv
 - Identify potential Philippine artists with strong compatibility as front acts for a Taylor Swift concert in the Philippines.
 
 ## Data Collection
-- Source: JC Peralta on Kaggle (https://www.kaggle.com/datasets/jcacperalta/spotify-daily-top-200-ph?resource=download)
+- Source: JC Peralta on [Kaggle](https://www.kaggle.com/datasets/jcacperalta/spotify-daily-top-200-ph?resource=download)
 - Scope:
     - Spotify Daily Top 200 Tracks in the Philippines
     - January 01, 2017 to October 15, 2023

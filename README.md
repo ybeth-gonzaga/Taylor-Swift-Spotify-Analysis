@@ -7,6 +7,12 @@ Carmi, a devoted fan of Taylor Swift, embarked on a data analysis project to inv
 - Evaluate the influence of Taylor Swift's activities on streaming behavior.
 - Identify potential Philippine artists with strong compatibility as front acts for a Taylor Swift concert in the Philippines.
 
+## Data Collection
+- Source: JC Peralta on Kaggle (https://www.kaggle.com/datasets/jcacperalta/spotify-daily-top-200-ph?resource=download)
+- Scope:
+    - Spotify Daily Top 200 Tracks in the Philippines
+    - January 01, 2017 to October 15, 2023
+
 ## Methodology
   1. Exploratory Data Analysis (EDA):
         -   Investigate the distribution and characteristics of the streaming activity data.

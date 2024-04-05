@@ -12,7 +12,7 @@ Carmi, a devoted fan of Taylor Swift, embarked on a data analysis project to inv
 - Scope:
     - Spotify Daily Top 200 Tracks in the Philippines
     - January 01, 2017 to October 15, 2023
-- Tools(s): Tableau, Google Colabotary, Microsoft Excel
+- Tool(s): Tableau, Google Colabotary, Microsoft Excel
 - Language(s): Python
 
 ## Methodology

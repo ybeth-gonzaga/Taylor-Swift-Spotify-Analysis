@@ -36,8 +36,8 @@ Case Study: Carmi, a devoted fan of Taylor Swift, embarked on a data analysis pr
         -   Can be seen in the MS Excel file named `analysis/streams analysis excel`
 
 ## 🔎 Results and Conclusion
-- Dashboard (Public Tableau Dashboard link [here](https://public.tableau.com/app/profile/ybeth.gladys.gonzaga/viz/TaylorSwiftinPHSpotifyTop200/StreamsDashboard))
-- Taylor Swift is a record holder of multiple achievements in Spotify (including the most streamed artist ever) and the Philippines is no stranger to this legend who never left the PH Top 200 charts since April 26 2019.
+### Dashboard (Public Tableau Dashboard link [here](https://public.tableau.com/app/profile/ybeth.gladys.gonzaga/viz/TaylorSwiftinPHSpotifyTop200/StreamsDashboard))
+### Taylor Swift is a record holder of multiple achievements in Spotify (including the most streamed artist ever) and the Philippines is no stranger to this legend who never left the PH Top 200 charts since April 26 2019.
 - Top 10 Percent Change in Daily Streams:
 
 | Top | Date       | Total Streams | % Change in Streams | Number of Songs in Top 200 | Category             | Detail                    |

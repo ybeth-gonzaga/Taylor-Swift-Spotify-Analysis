@@ -37,9 +37,12 @@ Case Study: Carmi, a devoted fan of Taylor Swift, embarked on a data analysis pr
 
 ## 🔎 Results
 - Dashboard (Public Tableau Dashboard link [here](https://public.tableau.com/app/profile/ybeth.gladys.gonzaga/viz/TaylorSwiftinPHSpotifyTop200/StreamsDashboard))
-![Alt text](https://raw.githubusercontent.com/ybeth-gonzaga/Taylor-Swift-Spotify-Analysis/main/analysis/001_chart.png "Optional title")
+![Streams and Counts](https://raw.githubusercontent.com/ybeth-gonzaga/Taylor-Swift-Spotify-Analysis/main/analysis/dashboard_01.png "Streams and Counts")
+![Daily Percent Change](https://raw.githubusercontent.com/ybeth-gonzaga/Taylor-Swift-Spotify-Analysis/main/analysis/dashboard_02.png "Daily Percent Change")
 
 - Taylor Swift is a record holder of multiple achievements in Spotify (including the most streamed artist ever) and the Philippines is no stranger to this legend who never left the PH Top 200 charts since April 26 2019.
+![Spotify Chart Streak](https://raw.githubusercontent.com/ybeth-gonzaga/Taylor-Swift-Spotify-Analysis/main/analysis/001_chart.png "Spotify Chart Streak")
+
 - Top 10 Percent Change in Daily Streams:
 Majority of the increases in streams are attributed to new music releases with 7 album releases, 2 album announcements, and 1 single release.
 
@@ -58,6 +61,7 @@ Majority of the increases in streams are attributed to new music releases with 7
 
 - An average of **82.39% increase** in streams happens whenever there is a Taylor Swift-related news.
 - Breakdown of percent stream per news category:
+![Percent Change per Category](https://raw.githubusercontent.com/ybeth-gonzaga/Taylor-Swift-Spotify-Analysis/main/analysis/002_chart.png "Percent Change per Category")
 
 ## 📑 Conclusion
 Taylor Swift is a record holder of multiple achievements in Spotify ([including the most streamed artist ever](https://www.statista.com/statistics/1450521/most-streamed-artist-spotify/)) and the Philippines is no stranger to this legend who never left the PH Top 200 charts since April 26 2019.

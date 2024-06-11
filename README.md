@@ -52,6 +52,7 @@ Case Study: Carmi, a devoted fan of Taylor Swift, embarked on a data analysis pr
 | 8   | Sep 17 2021| "324,344"     | 315.48              | 4                          | Single Release       | Wildest Dreams (Taylor's Version) |
 | 9   | Jul 07 2023| "20,159,438"  | 294.69              | 56                         | Album Release        | "Speak Now (Taylor's Version)" |
 | 10  | Jun 19 2021| "327,582"     | 234.58              | 10                         | Album Announcement  | "Red (Taylor's Version)"  |
+
 Majority of the increases in streams are attributed to new music releases with 7 album releases, 2 album announcements, and 1 single release.
 
 Almost all Taylor Swift-related news and announcements gathered had a positive relationship on her streams in the Top 200 with an average of 81.83% increase.  Among the categories, album announcements had the highest increase in streams averaging at 179.16% increase.

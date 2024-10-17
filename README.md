@@ -48,16 +48,16 @@ Majority of the increases in streams are attributed to new music releases with 7
 
 | Top | Date       | Total Streams | % Change in Streams | Number of Songs in Top 200 | Category             | Detail                    |
 |-----|------------|---------------|---------------------|----------------------------|----------------------|---------------------------|
-| 1   | Jul 24 2020| "5,019,956"   | 3173.8              | 25                         | Album Release        | Folklore                  |
-| 2   | Dec 11 2020| "2,989,691"   | 1425.2              | 22                         | Album Release        | Evermore                  |
-| 3   | Nov 12 2021| "8,476,377"   | 1053.8              | 47                         | Album Release        | "Red (Taylor's Version)" |
-| 4   | Oct 10 2022| "12,926,945"  | 955.45              | 36                         | Album Release        | Midnights                 |
-| 5   | Apr 09 2021| "4,476,141"   | 924.49              | 30                         | Album Release        | "Fearless (Taylor's Version)" |
-| 6   | Aug 23 2019| "2,188,177"   | 501.19              | 18                         | Album Release        | Lover                     |
-| 7   | Feb 12 2021| "880,686"     | 482.66              | 10                         | Album Announcement   | "Fearless (Taylor's Version)" |
-| 8   | Sep 17 2021| "324,344"     | 315.48              | 4                          | Single Release       | Wildest Dreams (Taylor's Version) |
-| 9   | Jul 07 2023| "20,159,438"  | 294.69              | 56                         | Album Release        | "Speak Now (Taylor's Version)" |
-| 10  | Jun 19 2021| "327,582"     | 234.58              | 10                         | Album Announcement  | "Red (Taylor's Version)"  |
+| 1   | Jul 24 2020| 5,019,956   | 3173.8              | 25                         | Album Release        | Folklore                  |
+| 2   | Dec 11 2020| 2,989,691   | 1425.2              | 22                         | Album Release        | Evermore                  |
+| 3   | Nov 12 2021| 8,476,377   | 1053.8              | 47                         | Album Release        | "Red (Taylor's Version)" |
+| 4   | Oct 10 2022| 12,926,945  | 955.45              | 36                         | Album Release        | Midnights                 |
+| 5   | Apr 09 2021| 4,476,141   | 924.49              | 30                         | Album Release        | "Fearless (Taylor's Version)" |
+| 6   | Aug 23 2019| 2,188,177   | 501.19              | 18                         | Album Release        | Lover                     |
+| 7   | Feb 12 2021| 880,686     | 482.66              | 10                         | Album Announcement   | "Fearless (Taylor's Version)" |
+| 8   | Sep 17 2021| 324,344     | 315.48              | 4                          | Single Release       | Wildest Dreams (Taylor's Version) |
+| 9   | Jul 07 2023| 20,159,438  | 294.69              | 56                         | Album Release        | "Speak Now (Taylor's Version)" |
+| 10  | Jun 19 2021| 327,582     | 234.58              | 10                         | Album Announcement  | "Red (Taylor's Version)"  |
 
 - An average of **82.39% increase** in streams happens whenever there is a Taylor Swift-related news.
 - Breakdown of percent stream per news category:

@@ -1,6 +1,6 @@
 # 🎧 Taylor Swift Ph Spotify Charts Analysis 🎧
-
-Deck summary in [Canva](https://www.canva.com/design/DAGFcSED0tk/1Bd-V55FyC5EL3pwMvCT-g/view?utm_content=DAGFcSED0tk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[Deck Summary](https://www.canva.com/design/DAGFcSED0tk/1Bd-V55FyC5EL3pwMvCT-g/view?utm_content=DAGFcSED0tk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[Interactive Dashboard](https://public.tableau.com/app/profile/ybeth.gladys.gonzaga/viz/TaylorSwiftinPHSpotifyTop200/StreamsDashboard)
 
 ## ✍️ Overview
 This repository contains code and documentation for an analysis project on Taylor Swift's Spotify Charts behavior on the artist's news and announcements.
